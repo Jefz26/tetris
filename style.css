@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    background: #202028;
+    color: #d2bbbb;
+    font-size: 2em;
+    text-align: center;
+  }
+
+  canvas {
+    border: solid 0.2em #d2bbbb;
+    height: 90vh;
+  }
